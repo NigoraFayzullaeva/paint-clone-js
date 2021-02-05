@@ -1,7 +1,7 @@
 # paint-clone-js
 `Just Paint` is a very basic browser drived (HTML Canvas) paint app.
-# [Demo](https://nigora-fayzullaeva.github.io/paint-clone-js/)
-## Tools >
+# [Demo](https://nigorafayzullaeva.github.io/paint-clone-js/)
+## Tools
    - Brush:  Tools to draw on canvas.
    - Bucket: Change canvas background color.
    - Eraser: Earse partial drawn element.
